@@ -9,11 +9,9 @@ body {
 }
 
 .quote-widget {
-    background-color: #fff;
-    border: 2px solid #ddd;
+    height: 300px;
     width: 300px;
     text-align: center;
-    border-radius: 8px;
 }
 
 blockquote {
