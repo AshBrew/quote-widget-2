@@ -5,18 +5,22 @@ body {
     min-height: 100vh;
     margin: 0;
     background-color: #ede5d3;
-    border: 5px #3c5c1e;
 }
 
 .quote-widget {
-    height: 300px;
-    width: 300px;
     text-align: center;
+    min-inline-size: 200px;
+    max-inline-size: 200px;
+    min-block-size: 200px;
+    max-block-size: 200px;
+    overflow: clip;
 }
 
 blockquote {
     font-style: regular;
     color: #3c5c1e;
+    block-size: 200px;
+    inline-size: 200px;
 }
 
 #quote-author {
