@@ -1,10 +1,10 @@
 // Array of quotes
 const quotes = [
-    { text: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
-    { text: "Life is what happens when you're busy making other plans.", author: "John Lennon" },
-    { text: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.", author: "Ralph Waldo Emerson" },
-    { text: "In three words I can sum up everything I've learned about life: it goes on.", author: "Robert Frost" },
-    { text: "To be great is to be misunderstood.", author: "Ralph Waldo Emerson" }
+    { text: "Courage is found in unlikely places.", author: "J.R.R. Tolkien" },
+    { text: "All we have to decide is what to do with the time that is given to us.", author: "J.R.R. Tolkien" },
+    { text: "Not all those who wander are lost.", author: "J.R.R. Tolkien" },
+    { text: "You have been chosen, and you must therefore use such strength and heart and wits as you have.", author: "J.R.R. Tolkien" },
+    { text: "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.", author: "J.R.R. Tolkien" }
 ];
 
 // Function to get a random quote
