@@ -5,13 +5,6 @@ body {
     align-items: center;
 }
 
-.quote-widget {
-    background-color: #fff;
-    border: none;
-    width: 300px;
-    text-align: center;
-}
-
 blockquote {
     font-style: regular;
     margin: 0;
