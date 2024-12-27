@@ -4,6 +4,7 @@ body {
     align-items: center;
     block-size: 300px;
     inline-size: 250px;
+    overflow: clip;
     margin: 0;
     background-color: #ede5d3;
 }
@@ -15,6 +16,7 @@ body {
 blockquote {
     font-style: regular;
     color: #3c5c1e;
+    padding: 10px;
 }
 
 #quote-author {
@@ -30,7 +32,7 @@ blockquote {
     padding: 10px;
     cursor: pointer;
     border-radius: 6px;
-    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #new-quote-btn:hover {
