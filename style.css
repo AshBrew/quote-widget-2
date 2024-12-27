@@ -4,15 +4,17 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #ede5d3;
+    border: 3px;
 }
 
 .quote-widget {
-        width: 400px;
+        height: auto;
+        width: auto;
         text-align: center;
 
 blockquote {
     font-style: regular;
-    text-color: #3c5c1e;
+    color: #3c5c1e;
     margin: 0;
 }
 
@@ -20,7 +22,7 @@ blockquote {
     margin-top: 10px;
     font-weight: bold;
     text-align: center;
-    text-color: #3c5c1e;
+    color: #3c5c1e;
 }
 
 #new-quote-btn {
