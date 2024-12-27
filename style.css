@@ -8,11 +8,12 @@ body {
     overflow: clip;
     margin: 0;
     background-color: #ede5d3;
-    border: 5px #3c5c1e;
 }
 
 .quote-widget {
     text-align: center;
+    border: 5px;
+    border-color: #3c5c1e;
 }
 
 blockquote {
@@ -29,8 +30,8 @@ blockquote {
 #new-quote-btn {
     background-color: #e0d7c1;
     color: #3c5c1e;
-    border: none;
-    padding: 10px;
+    border: 2px #3c5c1e;
+    padding: 7px;
     cursor: pointer;
     border-radius: 6px;
 }
