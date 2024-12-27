@@ -19,8 +19,6 @@ body {
 blockquote {
     font-style: regular;
     color: #3c5c1e;
-    block-size: 200px;
-    inline-size: 200px;
 }
 
 #quote-author {
