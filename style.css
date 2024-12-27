@@ -3,10 +3,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #fff;
 }
 
 .quote-widget {
-        background-color: #fff;
+        background-color: ##fcba03;
         width: 200px;
         text-align: center;
 
@@ -18,7 +19,7 @@ blockquote {
 #quote-author {
     margin-top: 10px;
     font-weight: regular;
-    text-align: right;
+    text-align: center;
 }
 
 #new-quote-btn {
