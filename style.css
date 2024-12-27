@@ -1,15 +1,10 @@
 body {
     font-family: "IM Fell English", serif;
-    display: flex;
     justify-content: center;
     align-items: center;
+    position: static;
     background-color: #ede5d3;
-    border: 3px;
-    border-color: #3c5c1e;
-    width: 300px;
-    height: 500px;
-    overlfow-x: hidden;
-    overflow-y: hidden;
+    border: 3px #3c5c1e;
 }
 
 .quote-widget {
