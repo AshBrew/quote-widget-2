@@ -2,7 +2,6 @@ body {
     font-family: "IM Fell English", serif;
     justify-content: center;
     align-items: center;
-    position: static;
     background-color: #ede5d3;
     border: 3px #3c5c1e;
 }
