@@ -6,12 +6,13 @@ body {
 }
 
 .quote-widget {
-        background-color: #fcba03;
+        background-color: #fff;
+        width: 200px;
+        text-align: center;
 
 blockquote {
     font-style: regular;
     margin: 0;
-    text-align: center;
 }
 
 #quote-author {
