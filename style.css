@@ -2,18 +2,14 @@ body {
     font-family: "IM Fell English", serif;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    block-size: 300px;
+    inline-size: 250px;
     margin: 0;
     background-color: #ede5d3;
 }
 
 .quote-widget {
     text-align: center;
-    min-inline-size: 200px;
-    max-inline-size: 200px;
-    min-block-size: 200px;
-    max-block-size: 200px;
-    overflow: clip;
 }
 
 blockquote {
