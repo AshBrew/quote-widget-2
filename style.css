@@ -6,10 +6,9 @@ body {
 }
 
 .quote-widget {
-        height: 200px;
+        height: 400px;
         width: 300px;
         text-align: center;    
-        border: 10px
 }
     
 blockquote {
@@ -28,10 +27,10 @@ blockquote {
     background-color: #e0d7c1;
     color: #3c5c1e;
     border: none;
-    padding: 5px;
+    padding: 10px;
     cursor: pointer;
     border-radius: 8px;
-    margin-top: 20px;
+    margin-bottom: 20px;
     align-items: center
 }
 
