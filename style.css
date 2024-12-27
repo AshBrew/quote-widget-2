@@ -4,18 +4,20 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #ede5d3;
-    border: 3px;
 }
 
 .quote-widget {
         height: auto;
         width: auto;
         text-align: center;
+        border: 5px;
+        border-color: #3c5c1e;
+        
 
 blockquote {
     font-style: regular;
     color: #3c5c1e;
-    margin: 0;
+    padding: 5px;
 }
 
 #quote-author {
