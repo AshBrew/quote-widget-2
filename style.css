@@ -8,11 +8,14 @@ body {
 blockquote {
     font-style: regular;
     margin: 0;
+    align-items: center;
+    background-color: #fcba03;
 }
 
 #quote-author {
     margin-top: 10px;
     font-weight: regular;
+    align-items: right;
 }
 
 #new-quote-btn {
@@ -23,6 +26,7 @@ blockquote {
     cursor: pointer;
     border-radius: 4px;
     margin-top: 20px;
+    align-items: center
 }
 
 #new-quote-btn:hover {
