@@ -5,17 +5,19 @@ body {
     align-items: center;
 }
 
+.quote-widget {
+        background-color: #fcba03;
+
 blockquote {
     font-style: regular;
     margin: 0;
-    align-items: center;
-    background-color: #fcba03;
+    text-align: center;
 }
 
 #quote-author {
     margin-top: 10px;
     font-weight: regular;
-    align-items: right;
+    text-align: right;
 }
 
 #new-quote-btn {
