@@ -2,10 +2,8 @@ body {
     font-family: "IM Fell English", serif;
     justify-content: center;
     align-items: center;
-    min-block-size: 200px;
-    max-block-size: 200px;
-    inline-size: 250px;
-    overflow: clip;
+    inline-size: auto;
+    overflow: hidden;
     margin: auto;
     background-color: #ede5d3;
 }
