@@ -6,7 +6,7 @@ body {
     max-block-size: 200px;
     inline-size: 250px;
     overflow: clip;
-    margin: 0;
+    margin: auto;
     background-color: #ede5d3;
 }
 
